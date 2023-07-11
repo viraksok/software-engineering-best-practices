@@ -1,6 +1,7 @@
-# Software Engineering Best Practices
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=40&pause=1000&color=F79C22&vCenter=true&width=835&height=60&lines=Software+Engineering+Best+Practices)](https://git.io/typing-svg)
 
 ## Overview
+
 This document provides an overview of best practices and guidelines for software engineering. These practices are designed to improve code quality, maintainability, collaboration, and project efficiency.
 
 ## Table of Contents
